@@ -1,0 +1,19 @@
+header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: black;
+    color:khaki;
+    width: 100%;
+}
+.box {
+    display:flex
+}
+.item {
+    width: 200px;
+    height: 150px;
+    border: 1px solid black;
+    background-color: blanchedalmond;
+    margin: 10px;
+    padding: 10px;
+}
